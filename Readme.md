@@ -1,3 +1,5 @@
+![Java 25](https://img.shields.io/badge/Java-25-orange?logo=java)
+![Spring Boot 3](https://img.shields.io/badge/Spring_Boot-3-brightgreen?logo=springboot)
 
 # 🚀 Task Manager - Spring Boot & Security
 
