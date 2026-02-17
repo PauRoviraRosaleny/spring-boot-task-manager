@@ -27,23 +27,19 @@ Welcome to **Task Manager**! This is a full-stack learning project built to mana
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-```
-   bash
-   git clone [https://github.com/your-username/task-manager.git](https://github.com/your-username/task-manager.git)
+
+   ```
+   git clone https://github.com/PauRoviraRosaleny/spring-boot-task-manager.git
    cd task-manager
-```
+   ```
 2. **Build the project:**
-
-```
-Bash
-mvn clean install
-```
-
+   ```
+   mvn clean install
+   ```
 3. **Run the application:**
-```
-Bash
-mvn spring-boot:run
-```
+   ```
+   mvn spring-boot:run
+   ```
 4. **Access the app:**
 Open your browser and navigate to http://localhost:8080
 
@@ -61,5 +57,6 @@ Password: (empty)
 📸 Screenshots
 (Pro-tip: Add screenshots of your Login page and Dashboard here to showcase your work!)
 
-✒️ Author
-Pau Rovira Rosaleny - LinkedIn - GitHub
+## ✒️ Author
+
+* **Pau Rovira Rosaleny** - [LinkedIn](https://www.linkedin.com/in/pau-rovira-rosaleny-142448308/) - [GitHub](https://github.com/PauRoviraRosaleny)
