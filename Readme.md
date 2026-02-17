@@ -32,7 +32,7 @@ Welcome to **Task Manager**! This is a full-stack learning project built to mana
 
    ```
    git clone https://github.com/PauRoviraRosaleny/spring-boot-task-manager.git
-   cd task-manager
+   cd spring-boot-task-manager
    ```
 2. **Build the project:**
    ```
