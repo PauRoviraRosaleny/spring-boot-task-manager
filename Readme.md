@@ -41,13 +41,17 @@ The business logic is fully covered by a professional suite of unit tests.
    ```
 2. **Build the project:**
    ```
-   mvn clean install
+   ./mvnw clean install
    ```
 3. **Run the application:**
    ```
-   mvn spring-boot:run
+   ./mvnw spring-boot:run
    ```
-4. **Access the app:**
+4. **Run tests:**
+   ```
+   ./mvnw run test
+   ```
+5. **Access the app:**
 Open your browser and navigate to http://localhost:8080
 
 🔐 Database Inspection (H2 Console)
