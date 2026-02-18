@@ -1,3 +1,5 @@
+![Java 25](https://img.shields.io/badge/Java-25-orange?logo=java)
+![Spring Boot 3](https://img.shields.io/badge/Spring_Boot-3-brightgreen?logo=springboot)
 
 # 🚀 Task Manager - Spring Boot & Security
 
@@ -30,7 +32,7 @@ Welcome to **Task Manager**! This is a full-stack learning project built to mana
 
    ```
    git clone https://github.com/PauRoviraRosaleny/spring-boot-task-manager.git
-   cd task-manager
+   cd spring-boot-task-manager
    ```
 2. **Build the project:**
    ```
@@ -55,7 +57,13 @@ User: sa
 Password: (empty)
 
 📸 Screenshots
-(Pro-tip: Add screenshots of your Login page and Dashboard here to showcase your work!)
+
+<img width="1920" height="911" alt="chrome_qicrZaQl6m" src="https://github.com/user-attachments/assets/b130d74a-a847-41d2-bf71-3af75c19136f" />
+
+<img width="1920" height="911" alt="chrome_a05SkC4xSG" src="https://github.com/user-attachments/assets/b45f16d7-4953-4342-9f2b-0e93fd47c105" />
+
+<img width="1920" height="911" alt="chrome_VnJejyP6Py" src="https://github.com/user-attachments/assets/0f165a2a-30cf-4f4d-a96a-a12475512947" />
+
 
 ## ✒️ Author
 
