@@ -54,16 +54,33 @@ The business logic is fully covered by a professional suite of unit tests.
 5. **Access the app:**
 Open your browser and navigate to http://localhost:8080
 
+## 🐳 Docker Deployment
+
+The application is fully containerized using a multi-stage Docker build, ensuring a consistent environment regardless of the host OS.
+
+### Prerequisites
+* Docker Desktop installed and running.
+
+### Build and Run
+1. **Build the image:**
+   ```
+   docker build -t task-manager-app .
+   ```
+2. **Launch the container:**
+   ```
+   docker run -p 8080:8080 --name my-task-app task-manager-app
+   ```
+   
 🔐 Database Inspection (H2 Console)
 To inspect the database while the app is running:
 
-URL: http://localhost:8080/h2-console
+   URL: http://localhost:8080/h2-console
 
-JDBC URL: jdbc:h2:file:./data/tasksdb
+   JDBC URL: jdbc:h2:file:./data/tasksdb
 
-User: sa
+   User: sa
 
-Password: (empty)
+   Password: (empty)
 
 📸 Screenshots
 
