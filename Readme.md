@@ -22,6 +22,11 @@ Welcome to **Task Manager**! This is a full-stack learning project built to mana
 - **Frontend:** Thymeleaf, HTML5, CSS3 (Bootstrap).
 - **Build Tool:** Maven.
 
+## 🧪 Quality & Testing
+The business logic is fully covered by a professional suite of unit tests.
+* **Coverage:** 100% of `TaskService`.
+* **Techniques used:** Static Mocking for SecurityContext, Factory Methods for clean test data, and Exception Testing.
+
 ## 📋 Prerequisites
 
 - Java 25 or higher.
@@ -36,13 +41,17 @@ Welcome to **Task Manager**! This is a full-stack learning project built to mana
    ```
 2. **Build the project:**
    ```
-   mvn clean install
+   ./mvnw clean install
    ```
 3. **Run the application:**
    ```
-   mvn spring-boot:run
+   ./mvnw spring-boot:run
    ```
-4. **Access the app:**
+4. **Run tests:**
+   ```
+   ./mvnw run test
+   ```
+5. **Access the app:**
 Open your browser and navigate to http://localhost:8080
 
 🔐 Database Inspection (H2 Console)
